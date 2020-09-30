@@ -1,0 +1,13 @@
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\bin\Debug\netcoreapp3.1\Studio_AreaOfCircle.exe
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\bin\Debug\netcoreapp3.1\Studio_AreaOfCircle.deps.json
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\bin\Debug\netcoreapp3.1\Studio_AreaOfCircle.runtimeconfig.json
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\bin\Debug\netcoreapp3.1\Studio_AreaOfCircle.runtimeconfig.dev.json
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\bin\Debug\netcoreapp3.1\Studio_AreaOfCircle.dll
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\bin\Debug\netcoreapp3.1\Studio_AreaOfCircle.pdb
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.csprojAssemblyReference.cache
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.AssemblyInfo.cs
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.dll
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.pdb
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt1\Studio_AreaOfCircle\Studio_AreaOfCircle\obj\Debug\netcoreapp3.1\Studio_AreaOfCircle.genruntimeconfig.cache
