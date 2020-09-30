@@ -16,7 +16,7 @@ namespace Studio_AreaOfCircle
             Console.WriteLine("What's your car's miles per gallon?");
             string inputMiles = Console.ReadLine();
             double gallons = double.Parse(inputMiles);
-            Console.WriteLine("You would use " + (2 * Math.PI * r) * gallons + " gallons of fuel to go around this circle");
+            Console.WriteLine("You would use " + (2 * Math.PI * r) / gallons + " gallons of fuel to go around this circle");
             
             Console.ReadLine();
 
